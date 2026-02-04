@@ -17,7 +17,7 @@ and running this lab helped develop my understanding of how active directory and
 <h2> Program Walk Through:</h2>
 
 <p align="center">
-Company Introduction: <br/>
+Create VM: <br/>
   <br/>
   <img src ="https://github.com/user-attachments/assets/177d8d70-d6f7-42e9-be78-4ccfd9830b52"/>
 <br />
