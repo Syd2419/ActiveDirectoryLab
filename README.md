@@ -19,7 +19,7 @@ and running this lab helped develop my understanding of how active directory and
 <p align="center">
 Company Introduction: <br/>
   <br/>
-  <img src ="https://github.com/user-attachments/assets/0f781b87-02ed-447f-a98a-1bbcfbfba996" width="80%" height="80%" alt="Disk Sanitization"/>
+  <img src ="https://github.com/user-attachments/assets/177d8d70-d6f7-42e9-be78-4ccfd9830b52"/>
 <br />
 <br />
 Technology & Tool Evaluation and Selection Plan:  <br/>
