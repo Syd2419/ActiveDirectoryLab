@@ -5,10 +5,12 @@ This lab showcase step by step how to create an Acrive Directory home lab Enviro
 and running this lab helped develop my understanding of how active directory and windows networking works.<br />
 
 <h2>Languages and Utilities used</h2>
+
 - <b>Powershell</b>
 - <b>Oracle Virtual Box</b>
 
 <h2>Environment Used</h2>
+
 - <b>Windows 10</b> (21H2)
 - <b>Server 2022</b>
 
