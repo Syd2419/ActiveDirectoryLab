@@ -19,7 +19,7 @@ and running this lab helped develop my understanding of how active directory and
 <p align="center">
 Create VM: <br/>
   <br/>
-  <img src ="https://github.com/user-attachments/assets/177d8d70-d6f7-42e9-be78-4ccfd9830b52"/>
+  <img src ="https://github.com/user-attachments/assets/177d8d70-d6f7-42e9-be78-4ccfd9830b52"width="80%" height="80%" alt="Disk Sanitization"/>
 <br />
 <br />
 Internet/Internal NIC:  <br/>
@@ -27,7 +27,7 @@ Internet/Internal NIC:  <br/>
 <img src="https://github.com/user-attachments/assets/1769a161-3eae-4f8a-a4dd-bf66482cd64f"width="80%" height="80%" alt="Disk Sanitization"/>
 <br/>
 <br/>
-Requirement List: <br/>
+Give an IP Address: <br/>
   <br/>
 <img src="https://github.com/user-attachments/assets/b29e6639-7e08-48de-9150-f3201b1ab3ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/user-attachments/assets/b29e6639-7e08-48de-9150-f3201b1ab3ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
