@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-This lab showcase step by step how to create an Acrive Directory home lab Environment using Oracle Virtual Box. Configuring 
+This lab showcase step by step how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring 
 and running this lab helped develop my understanding of how active directory and windows networking works.<br />
 
 <h2>Languages and Utilities used</h2>
