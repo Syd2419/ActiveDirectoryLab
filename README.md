@@ -22,11 +22,11 @@ Create VM: <br/>
   <img src ="https://github.com/user-attachments/assets/177d8d70-d6f7-42e9-be78-4ccfd9830b52"/>
 <br />
 <br />
-Technology & Tool Evaluation and Selection Plan:  <br/>
+Internet/Internal NIC:  <br/>
 <br/>
-<img src="https://github.com/user-attachments/assets/495a4299-5e6a-4c6e-84ca-e52a28c35513" width="80%" height="80%" alt="Disk Sanitization"/>
-<img src="https://github.com/user-attachments/assets/ebdc947d-8000-4fca-8d3b-18941f082e8e"width="80%" height="80%" alt="Disk Sanitization"/> <br />
-<br />
+<img src="https://github.com/user-attachments/assets/1769a161-3eae-4f8a-a4dd-bf66482cd64f"width="80%" height="80%" alt="Disk Sanitization"/>
+<br/>
+<br/>
 Requirement List: <br/>
   <br/>
 <img src="https://github.com/user-attachments/assets/b29e6639-7e08-48de-9150-f3201b1ab3ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
