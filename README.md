@@ -29,8 +29,7 @@ Internet/Internal NIC:  <br/>
 <br/>
 Give an IP Address: <br/>
   <br/>
-<img src="https://github.com/user-attachments/assets/b29e6639-7e08-48de-9150-f3201b1ab3ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://github.com/user-attachments/assets/b29e6639-7e08-48de-9150-f3201b1ab3ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0ab1a029-1429-45f9-97e6-aa4c8d472893" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Cost Breakdown:  <br/>
   <br/>
