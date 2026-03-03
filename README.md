@@ -38,6 +38,6 @@ Launch PowerShell:  <br/>
 <br />
 Creating Users With PowerShell:  <br/>
   <br/>
-<img src="https://github.com/user-attachments/assets/ae6e93ed-7c51-430a-a6c6-2ac7c673dec6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/62b1dd3b-ef3f-4d9f-ae34-012c361deb8d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
